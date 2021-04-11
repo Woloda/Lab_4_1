@@ -1,0 +1,8 @@
+﻿  Circle.cpp
+  Figure.cpp
+  Rectangle.cpp
+  Trapeze.cpp
+  main.cpp
+  Generating Code...
+  LINK : C:\Users\dwtwm\source\repos\Lab_4.1\Debug\Lab_4.1.exe not found or not built by the last incremental link; performing full link
+  Lab_4.1.vcxproj -> C:\Users\dwtwm\source\repos\Lab_4.1\Debug\Lab_4.1.exe
